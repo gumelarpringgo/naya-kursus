@@ -11,7 +11,7 @@ func main() {
 
 	fmt.Print("Enter your username: ")
 
-	read := bufio.NewReader(os.Stdin) //input
+	read := bufio.NewReader(os.Stdin)
 
 	input, _ := read.ReadString('\n')
 
