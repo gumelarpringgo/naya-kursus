@@ -11,6 +11,9 @@ func PositiveSum(numbers []int) int {
 	}
 	return x
 }
+func cob() {
+	// jika suatu fungsi tidak terdapat nilai, maka dapat berjalan. jika fungsi terdapat nilai, maha harus digunakan
+}
 
 func main() {
 	numbers := []int{1, 3, 5, -3, 4, -7}
